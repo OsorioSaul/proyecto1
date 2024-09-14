@@ -5,4 +5,9 @@ public class MySecondClass {
         MyFirstClass.hola();
         System.out.println("Llamando desde la segunda clase");
     }
+
+    public static void adiosSuperGenial() {
+        MyFirstClass.adios();
+        System.out.println("Llamado desde la segunda clase");
+    }
 }
