@@ -7,6 +7,6 @@ public class MyFirstClass {
     }
 
     public static void adios(){
-        System.out.println("¡Hasta luego!");
+        System.out.println("¡Luego nos vemos!");
     }
 }
